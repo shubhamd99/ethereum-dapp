@@ -1,0 +1,46 @@
+body {
+    background-color:#05A6FE;
+    padding: 2em;
+    font-family: 'Raleway','Source Sans Pro', 'Arial';
+}
+.title {
+    color: white;
+}
+
+.container {
+    width: 60%;
+    background-color: #47BEFE;
+    padding: 18px;
+    border-radius: 8px;
+    margin: 0 auto;
+}
+label {
+    display:block;
+    margin-bottom:10px;
+}
+input {
+    padding:10px;
+    width: 50%;
+    margin-bottom: 1em;
+}
+
+.control-label{
+    color: white;
+}
+
+button {
+    margin: 2em 0;
+    padding: 1em 4em;
+    display:block;
+}
+
+#instructor {
+    padding:1em;
+    background-color:#fff;
+    margin: 1em 0;
+}
+
+#loader {
+    width: 100px;
+    display:none;
+}
